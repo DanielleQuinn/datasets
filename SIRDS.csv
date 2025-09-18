@@ -1,0 +1,51 @@
+birthweight,survival
+1.050,died 
+	2.500,died 
+	1.890,died 
+	1.760, survived
+	2.830, survived
+1.175,died 
+	1.030,died 
+	1.940,died 
+	1.930, survived
+	1.410, survived
+1.230,died 
+	1.100,died 
+	2.200,died 
+	2.015, survived
+	1.715, survived
+1.310,died 
+	1.185,died 
+	2.270,died 
+	2.090, survived
+	1.720, survived
+1.500,died 
+	1.225,died 
+	2.440,died 
+	2.600, survived
+	2.040, survived
+1.600,died 
+	1.262,died 
+	2.560,died 
+	2.700, survived
+	2.200, survived
+1.720,died 
+	1.295,died 
+	2.730,died 
+	2.950, survived
+	2.400, survived
+1.750,died 
+	1.300,died 
+	1.130, survived
+	3.160, survived
+	2.550, survived
+1.770,died 
+	1.550,died 
+	1.575, survived
+	3.400, survived
+	2.570, survived
+2.275,died 
+	1.820,died 
+	1.680, survived
+	3.640, survived
+	3.005, survived
