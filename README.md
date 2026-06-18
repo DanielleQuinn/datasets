@@ -4,3 +4,5 @@ L3_bordercrossings.csv - 2022-2023 US Canada border crossings at Calais, ME, by 
 MATH1253_harvest.csv - simulated data set of apples and trees at 15 farms. Used as demonstration code for Winter 2026 MATH1253 Lab 3
 
 populationCLT.csv - simulated right skewed population with mean = 11.8, sd = 13.8 Used for Winter 2026 MATH1253 Lab 7
+
+parks.csv - a data set used to introduce dplyr and workflows; USA national parks, entrance fees, date established, lat/lon, acreage
